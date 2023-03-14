@@ -1,11 +1,14 @@
 # Transformer
+
 Paper Review
 
-논문 리뷰를 중심으로 한 repository입니다.
+This is a repository centered on thesis reviews.
 
-주제는 Transformer 입니다.
+I would like to continue my review on the topic of Transformer.
 
-연구가 진행된 시간 순으로 정리하되, 제 이해의 방향을 담으려고 노력하고 있습니다.
+I'm trying to organize the research in the order of time, but I'm trying to capture the direction of my understanding.
+
+Please refer to the Papers folder above for the original text and refer to the link below for the review I wrote.
 
 __________
 
