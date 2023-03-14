@@ -12,6 +12,6 @@ Please refer to the Papers folder above for the original text and refer to the l
 
 __________
 
-## Blog Link
+## Review (Blog Link)
 
 - [Attention Is All You Need](https://seollane22.tistory.com/20)
