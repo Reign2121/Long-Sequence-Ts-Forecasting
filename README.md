@@ -9,4 +9,6 @@ Paper Review
 
 __________
 
-- Attention Is All You Need  [논문 링크](https://arxiv.org/abs/1706.03762)
+## Blog Link
+
+- Attention Is All You Need  [Tistory](https://seollane22.tistory.com/20)
