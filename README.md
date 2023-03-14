@@ -11,4 +11,4 @@ __________
 
 ## Blog Link
 
-- Attention Is All You Need  [Tistory](https://seollane22.tistory.com/20)
+- [Attention Is All You Need](https://seollane22.tistory.com/20)
