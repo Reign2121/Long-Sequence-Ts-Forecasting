@@ -6,3 +6,7 @@ Paper Review
 주제는 Transformer 입니다.
 
 연구가 진행된 시간 순으로 정리하되, 제 이해의 방향을 담으려고 노력하고 있습니다.
+
+__________
+
+- Attention Is All You Need  [논문 링크](https://arxiv.org/abs/1706.03762)
