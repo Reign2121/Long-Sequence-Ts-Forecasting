@@ -2,7 +2,7 @@
 
 Paper Review
 
-This is a repository centered on thesis reviews.
+This is a repository centered on paper reviews.
 
 I would like to continue my review on the topic of Transformer.
 
