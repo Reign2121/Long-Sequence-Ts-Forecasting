@@ -15,3 +15,5 @@ __________
 ## Review (Blog Link)
 
 - [Attention Is All You Need](https://seollane22.tistory.com/20)
+
+- [Transformers in Time Series: A Survey](https://seollane22.tistory.com/21)
