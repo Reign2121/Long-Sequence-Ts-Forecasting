@@ -12,8 +12,10 @@ Please refer to folders above for the original text and refer to the link below 
 
 __________
 
-## Review (Blog Link)
+# Vanilla Transformer (Blog Link)
 
 - [Attention Is All You Need](https://seollane22.tistory.com/20)
+
+# Time-Series 
 
 - [Transformers in Time Series: A Survey](https://seollane22.tistory.com/21)
