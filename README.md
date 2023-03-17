@@ -16,6 +16,6 @@ __________
 
 - [Attention Is All You Need](https://seollane22.tistory.com/20)
 
-### In Time-Series (Blog Link)
+### For Time-Series (Blog Link)
 
 - [Transformers in Time Series: A Survey](https://seollane22.tistory.com/21)
