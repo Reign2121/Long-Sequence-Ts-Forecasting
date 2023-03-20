@@ -1,7 +1,9 @@
 ## Transformers in Time Series: A Survey
+__________
+
 <br>
 
-- [Review](https://seollane22.tistory.com/20)
+- [Review](https://seollane22.tistory.com/21)
 
 </br>
 
