@@ -1,5 +1,5 @@
 
-#[Review](https://seollane22.tistory.com/22)
+[Review](https://seollane22.tistory.com/22)
 
 이 논문은 기존 트랜스포머 모델에 시계열의 특징을 추가한 변형 모델인 Autoformer를 제안한 논문이다.
 
