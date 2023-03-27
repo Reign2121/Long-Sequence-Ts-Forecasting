@@ -1,6 +1,7 @@
 
 [Review](https://seollane22.tistory.com/22)
 
+
 이 논문은 기존 트랜스포머 모델에 시계열의 특징을 추가한 변형 모델인 Autoformer를 제안한 논문이다.
 
 트랜스포머의 등장 이후, self-attention을 장착한 트랜스포머 기반 모델은 기존 RNN, CNN 기반의 딥러닝 모델들의 성능보다 더 뛰어난 성능을 내고있다.
