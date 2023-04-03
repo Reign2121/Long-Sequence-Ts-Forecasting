@@ -22,4 +22,4 @@ __________
 
 - [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://seollane22.tistory.com/22)
 
-- Are Transformers Effective for Time Series Forecasting?
+- [Are Transformers Effective for Time Series Forecasting?](https://seollane22.tistory.com/23)
