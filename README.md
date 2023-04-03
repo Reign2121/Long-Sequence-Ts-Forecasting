@@ -1,6 +1,4 @@
-# Transformer
-
-Paper Review
+# Paper Review with Transformer
 
 This is a repository centered on paper reviews.
 
