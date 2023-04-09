@@ -24,6 +24,6 @@ __________
 
 - [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://seollane22.tistory.com/22)
 
-### Anti-Transformer (Blog Link)
+## Anti-TS Transformer (Blog Link)
 
 - [Are Transformers Effective for Time Series Forecasting?](https://seollane22.tistory.com/23)
