@@ -18,3 +18,17 @@ class TimeSeriesTransformer(nn.Module):
         output = self.transformer(src, src)
         output = self.output_fc(output)
         return output.squeeze(0)
+
+
+''' input_fc : 입력을 d_model 차원으로 매핑하는 fully connected layer입니다.
+    pos_encoder : position encoding을 적용하는 모듈입니다. Position encoding은 시계열 데이터의 위치 정보를 모델에 제공합니다.
+    transformer : Transformer 모델입니다. nn.Transformer를 사용하여 구현되었습니다.
+    output_fc : Transformer의 출력을 output_size 크기의 벡터로 매핑하는 fully connected layer입니다.
+    forward 메소드는 다음과 같은 작업을 수행합니다:
+
+    src : shape이 (sequence_length, batch_size, input_size) 인 입력 시퀀스입니다.
+    input_fc 를 사용하여 입력을 d_model 차원으로 매핑합니다.
+    pos_encoder를 사용하여 position encoding을 적용합니다.
+    transformer를 사용하여 시계열 데이터를 처리합니다.
+    output_fc를 사용하여 Transformer의 출력을 output_size 크기의 벡터로 매핑합니다.
+    output을 반환하기 전에 squeeze 를 사용하여 차원을 축소합니다. '''
