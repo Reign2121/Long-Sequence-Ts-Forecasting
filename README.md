@@ -28,4 +28,4 @@ __________
 
 - [Are Transformers Effective for Time Series Forecasting?](https://seollane22.tistory.com/23)
 
--
+- [Less Is More - Fast Multivariate Time Series Forecasting with Light Sampling-oriented MLP Structures](https://seollane22.tistory.com/25)
