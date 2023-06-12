@@ -14,7 +14,7 @@
 
 __________
 
-## Vanilla Transformer (Blog Link)
+### Vanilla Transformer (Blog Link)
 
 - [Attention Is All You Need](https://seollane22.tistory.com/20)
 
