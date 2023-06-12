@@ -18,13 +18,13 @@ __________
 
 - [Attention Is All You Need](https://seollane22.tistory.com/20)
 
-# TS Transformer  (Blog Link)
+## TS Transformer  (Blog Link)
 
 - [Transformers in Time Series: A Survey](https://seollane22.tistory.com/21)
 
 - [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://seollane22.tistory.com/22)
 
-### None - TS Transformer (Blog Link)
+## None - TS Transformer (Blog Link)
 
 - [Are Transformers Effective for Time Series Forecasting?](https://seollane22.tistory.com/23)
 
